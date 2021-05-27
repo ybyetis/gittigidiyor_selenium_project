@@ -1,0 +1,535 @@
+[main] INFO  testing.LogHelper  - Bilgisayar kelimesi aratýldý
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - asdasd
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Log initted
+[main] INFO  testing.LogHelper  - Log4j initted.
+[main] INFO  testing.LogHelper  - Log4j initted.
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
+[main] INFO  testing.LogHelper  - Chrome browser opened
+[main] INFO  testing.LogHelper  - Gittigidiyor Main Page opened
+[main] INFO  testing.LogHelper  - Pages initted.
+[main] INFO  testing.LogHelper  - Logged In
+[main] INFO  testing.LogHelper  - Searched the 'bilgisayar' 
+[main] INFO  testing.LogHelper  - Page 2 opened
+[main] INFO  testing.LogHelper  - Random product selected
+[main] INFO  testing.LogHelper  - Product's price has been recorded
+[main] INFO  testing.LogHelper  - Product added to cart
+[main] INFO  testing.LogHelper  - Opened to the basket
+[main] INFO  testing.LogHelper  - The price of the product in the basket has been recorded
+[main] INFO  testing.LogHelper  - Prices compared
+[main] INFO  testing.LogHelper  - The number of products has been increased to 2
+[main] INFO  testing.LogHelper  - Products has been deleted
