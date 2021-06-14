@@ -19,8 +19,8 @@ public class BasePage {
 	static SearchPage searchPage;
 	static ProductPage productPage;
 	static BasketPage basketPage;
-	static String email = "ddda8820@gmail.com";
-	static String password = "122133Aa";
+	static String email = "";
+	static String password = "";
 	static int randomPageIndex = -1;
 	static String productPrice = "";
 	private static LogHelper logHelper;
